@@ -25,6 +25,12 @@
 .settings/
 .vscode/*
 
+
+# Local platform config (sensitive)
+# Do NOT commit google-services.json (Android Firebase config) or iOS Info.plist containing app identifiers / usage strings
+android/app/google-services.json
+ios/Runner/Info.plist
+
 # Flutter repo-specific
 /bin/cache/
 /bin/internal/bootstrap.bat
