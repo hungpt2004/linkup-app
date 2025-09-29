@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "699815875171",
+    "firebase_url": "https://socialchatapp-ideastartup-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "socialchatapp-ideastartup",
+    "storage_bucket": "socialchatapp-ideastartup.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699815875171:android:11190c2933ff5d49ee1e56",
+        "android_client_info": {
+          "package_name": "com.example.handoff_vdb_2025"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDexA3DG6ZGof18bJkhGy56VrF5Kimvczk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
